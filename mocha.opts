@@ -1,0 +1,7 @@
+--require lib/mocha-gherkin
+--ui mocha-gherkin
+--reporter lib/spec
+--compilers js:babel-core/register
+--recursive
+--require babel-register
+--timeout 60000

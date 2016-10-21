@@ -1,0 +1,11 @@
+{
+    "url": "https://www.google.ca",
+    "testTimeout": 60000,
+    "nightmareConfig": {
+        "show": true,
+        "ignoreSslErrors": true,
+        "sslProtocol": "tlsv1",
+        "waitTimeout": 60000,
+        "gotoTimeout": 10000
+    }
+  }
